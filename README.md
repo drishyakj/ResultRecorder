@@ -2,6 +2,8 @@
 A student management system to analyze and store the results and  marks of students in a class or school.
 
 Implemented Using PHP, HTML and MySQL.
+This application program is useful to learn database connectivity and querying using PHP and HTML.
+I have used mysqli_connect() for databse connectivity.
 
 
 Steps to run the application
@@ -27,6 +29,4 @@ Steps to run the application
 17. Whenever you make a new entry it would be updated in the result_recorder databse in Xampp server
 
 
-This application program is useful to learn database connectivity and querying using PHP and HTML.
 
-I have used mysqli_connect() for databse connectivity
