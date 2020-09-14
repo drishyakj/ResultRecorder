@@ -27,7 +27,5 @@ Steps to run the application
 15. There would be a file named Result_Recorder.html, Open the file in any browser
 
 16.Now you can select the options and navigate through the applications ( Admin or teacher username and passwords can be found in the imported databse in Xampp server page )
+
 17. Whenever you make a new entry it would be updated in the result_recorder databse in Xampp server
-
-
-
