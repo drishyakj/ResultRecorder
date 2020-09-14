@@ -9,7 +9,7 @@ I have used mysqli_connect() for databse connectivity.
 Steps to run the application
 
 1. Install XAMPP
-2. Go the location where XAMPP is installed( Probably in Eg: Local Disk(C:))
+2. Go the location where XAMPP is installed( Probably in,  Eg: Local Disk(C:))
 3. Open folder named XAMPP
 4. Open folder named htdocs and create a folder "asd" ( if you want to give other names change the location details from all the php codes accordingly)
 5. Store or download the contents from the github repository folder "htdocs" to the folder asd (created in step 4)
@@ -25,7 +25,8 @@ Steps to run the application
 
 14. Now go to the Xampp folder and then to htdocs
 15. There would be a file named Result_Recorder.html, Open the file in any browser
-16.Now you can select the options and navigate through the applications.( Admin or teacher username and passwords can be found in the imported databse )
+
+16.Now you can select the options and navigate through the applications ( Admin or teacher username and passwords can be found in the imported databse in Xampp server page )
 17. Whenever you make a new entry it would be updated in the result_recorder databse in Xampp server
 
 
