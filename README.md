@@ -1,7 +1,7 @@
 # ResultRecorder
 A student management system to analyze and store the results and  marks of students in a class or school.
 
-Implemented Using PHP, HTML and MySQL.
+Implemented Using PHP, HTML and MySQL on Xampp Apache Server
 This application program is useful to learn database connectivity and querying using PHP and HTML.
 I have used mysqli_connect() for databse connectivity.
 
@@ -20,12 +20,12 @@ Steps to run the application
 9. Click on the "New" option to create new database (Probably on left side)
 10. Click on import
 11. Upload the file db.sql from the github repository folder database to XAMPP using choose file option( Download the file first)
-12. Click Go
-13.The database named "result_recorder" would be imported to the Xampp Server
+12. Click Go.
+13. The database named "result_recorder" would be imported to the Xampp Server
 
 14. Now go to the Xampp folder and then to htdocs
 15. There would be a file named Result_Recorder.html, Open the file in any browser
 
-16.Now you can select the options and navigate through the applications ( Admin or teacher username and passwords can be found in the imported databse in Xampp server page )
+16. Now you can select the options and navigate through the applications ( Admin or teacher username and passwords can be found in the imported databse in Xampp server page )
 
 17. Whenever you make a new entry it would be updated in the result_recorder databse in Xampp server
